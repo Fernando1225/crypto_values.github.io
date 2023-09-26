@@ -53,6 +53,12 @@ body {
   gap: 3rem;
 }
 
+.img-logo {
+  width: 5px;
+  height: 5px;
+  text-align: left;
+}
+
 .Crypto-card {
   text-align: center;
 }
